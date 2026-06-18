@@ -1,3 +1,4 @@
+// Latihan Mandiri Bagian 1
 package bagian1.berkas;
 import java.io.File;
 import java.io.IOException;
